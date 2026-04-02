@@ -1,4 +1,6 @@
-<img src="docs/project_banner.png" width="100%">
+<p align="center">
+  <img src="thumbnail15.png" width="800">
+</p>
 
 # 🧾 Label Reading Using OCR (Python)
 
@@ -176,6 +178,11 @@ pip install -r requirements.txt
 ```
 
 ---
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/label-reading-ocr.git)
 
 # 👨‍💻 Author
 
